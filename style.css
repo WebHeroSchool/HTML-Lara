@@ -2,17 +2,19 @@
 .wrapper {
   background-image: url(spacebackpic.jpg);
   background-size: cover;
+  font-family: 'Helvetica';
+
 }
 
 .header{
   color: #E6E6E6;
-  font-family: 'Helvetica';
   padding: 20px;
   overflow: hidden;
 }
 
 .header_title{
   text-align: center;
+  font-family: 'Georgia';
 }
 
 .header_text{
